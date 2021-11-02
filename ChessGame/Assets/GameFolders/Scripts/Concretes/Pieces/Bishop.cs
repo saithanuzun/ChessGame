@@ -71,12 +71,6 @@ namespace ChessGame.Pieces
 
             }
 
-
-
-
-
-
-
             return _coordinate;
         }
 
